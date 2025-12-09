@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "ESS 411 Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Table of Contents\n\nLecture Slides\nReadings\nAssignment 1\nAssignment 2\nAssignment 3\nAssignment 4\nWeekly Reflections\nCourse Reflection"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "Lecture 1 Lecture 2 Lecture 3 Lecture 4"
   }
 ]

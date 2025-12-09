@@ -3,12 +3,16 @@ project:
   output-dir: docs
   
 website:
-  title: "ESS411Portfolio"
+  title: "ESS 411 Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: slides.qmd
+        text: Lecture Slides
+
+resources: 
+  - "slides/*.pdf"
 
 format:
   html:

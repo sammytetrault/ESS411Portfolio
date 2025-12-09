@@ -1,0 +1,9 @@
+---
+title: "Lecture Slides"
+format: html
+---
+
+[Lecture 1](slides/ESS411_Lecture_1.pdf)
+[Lecture 2](slides/ESS411_Lecture_2.pdf)
+[Lecture 3](slides/ESS411_Lecture_3.pdf)
+[Lecture 4](slides/ESS411_Lecture_4.pdf)

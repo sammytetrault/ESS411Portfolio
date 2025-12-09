@@ -1,11 +1,22 @@
 ---
 title: "ESS 411 Portfolio"
+author: "Sammy Tetrault"
 ---
 
-This is a Quarto website.
+### Table of Contents
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+1.   Lecture Slides
 
-```{r}
-1 + 1
-```
+2.   Readings
+
+3.   Assignment 1
+
+4.   Assignment 2
+
+5.   Assignment 3
+
+6.   Assignment 4
+
+7.   Weekly Reflections
+
+8.   Course Reflection
