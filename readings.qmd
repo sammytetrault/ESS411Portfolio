@@ -1,0 +1,6 @@
+---
+title: "Readings"
+format: html
+---
+
+[Biogeochemistry Chapter 1](readings/ESS411_Ch_1.pdf)
