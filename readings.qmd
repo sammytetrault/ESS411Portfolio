@@ -4,3 +4,38 @@ format: html
 ---
 
 [Biogeochemistry Chapter 1](readings/ESS411_Ch_1.pdf)
+
+[Biogeochemistry Chapter 2](readings/ESS411_Ch_2.pdf)
+
+[Biogeochemistry Chapter 3](readings/ESS411_Ch_3.pdf)
+
+[Biogeochemistry Chapter 4](readings/ESS411_Ch_4.pdf)
+
+[Biogeochemistry Chapter 5](readings/ESS411_Ch_5.pdf)
+
+[Biogeochemistry Chapter 6](readings/ESS411_Ch_6.pdf)
+
+[Biogeochemistry Chapter 7](readings/ESS411_Ch_7.pdf)
+
+[Biogeochemistry Chapter 8](readings/ESS411_Ch_8.pdf)
+
+[Biogeochemistry Chapter 9](readings/ESS411_Ch_9.pdf)
+
+[Biogeochemistry Chapter 10](readings/ESS411_Ch_10.pdf)
+
+[Biogeochemistry Chapter 11](readings/ESS411_Ch_11.pdf)
+
+[Biogeochemistry Chapter 12](readings/ESS411_Ch_12.pdf)
+
+[Biogeochemistry Chapter 13](readings/ESS411_Ch_13.pdf)
+
+[Biogeochemistry Chapter 14](readings/ESS411_Ch_14.pdf)
+
+[Reverse Outlining](readings/ESS411_Reverse_Outlining.pdf)
+
+[NSF GRFP 2024](readings/ESS411_NSF_GRFP.pdf)
+
+[Short Form CV Dr. Moore Example](readings/ESS411_CV_Short_Moore.pdf)
+
+[Long Form CV Dr. Moore Example](readings/ESS411_CV_Long_Moore.pdf)
+
