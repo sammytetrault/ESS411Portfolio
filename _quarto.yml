@@ -14,6 +14,8 @@ website:
         text: Readings
       - href: assignments.qmd
         text: Assignments
+      - href: weekly_reflections.qmd
+        text: Weekly Reflections
         
 resources: 
   - "slides/*.pdf"
