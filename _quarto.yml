@@ -12,10 +12,13 @@ website:
         text: Lecture Slides
       - href: readings.qmd
         text: Readings
-
+      - href: assignments.qmd
+        text: Assignments
+        
 resources: 
   - "slides/*.pdf"
   - "readings/*.pdf"
+  - "assignments/*.pdf"
 
 format:
   html:

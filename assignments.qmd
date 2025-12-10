@@ -1,0 +1,12 @@
+---
+title: "Assignments"
+format: html
+---
+
+[Assignment 1 - GRFP RFP, CV, and Reverse Outline](assignments/ESS411_Assignment_1.pdf)
+
+[Assignment 2 - Literature Review and Reverse Outlines](assignments/ESS411_Assignment_2.pdf)
+
+[Assignment 3 - Logic Model and Proposal Draft](assignments/ESS411_Assignment_3.pdf)
+
+Assignment 4 - Final Proposal
