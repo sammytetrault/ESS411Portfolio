@@ -38,4 +38,3 @@ format: html
 [Short Form CV Dr. Moore Example](readings/ESS411_CV_Short_Moore.pdf)
 
 [Long Form CV Dr. Moore Example](readings/ESS411_CV_Long_Moore.pdf)
-

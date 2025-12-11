@@ -9,4 +9,4 @@ format: html
 
 [Assignment 3 - Logic Model and Proposal Draft](assignments/ESS411_Assignment_3.pdf)
 
-Assignment 4 - Final Proposal
+[Assignment 4 - Final Proposal](assignments/ESS411_Assignment_4.pdf)
